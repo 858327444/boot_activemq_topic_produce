@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.scheduling.annotation.EnableScheduling;
 
 /**
- * 主启动类
+ * 主启动类.
  * Program Name: activemq
  * Created by yanlp on 2019-10-19
  *
